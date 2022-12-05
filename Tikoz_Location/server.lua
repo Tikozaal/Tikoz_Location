@@ -1,7 +1,3 @@
-print('')
-print('^4Script By ^1Tikoz^7')
-print('')
-
 ESX = nil
 
 Citizen.CreateThread(function()
