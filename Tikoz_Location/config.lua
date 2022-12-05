@@ -18,10 +18,3 @@ Config.Name = {
 
 }
 
-Config.Cross = {
-
-    Pnj = vector4(1525.75, -3272.2, 28.41, 184.15),
-
-    Menu = vector3(1525.73, -3273.25, 27.41)
-
-}
